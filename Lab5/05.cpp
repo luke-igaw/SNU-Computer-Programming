@@ -1,3 +1,9 @@
+/*
+Josephus Problem
+if you want to make the code more general
+you can replace int n = 7, k = 3 with cin >> n >> k;
+*/
+
 #include <iostream>
 #include <list>
 
