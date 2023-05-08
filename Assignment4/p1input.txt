@@ -1,0 +1,20 @@
+19
+top
+push 7
+push 5
+push 11
+size
+empty
+pop
+top
+pop
+pop
+pop
+size
+empty
+push 6
+push 27
+pop
+push 8
+empty
+top
